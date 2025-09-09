@@ -1,36 +1,71 @@
 import requests
 import pandas as pd
+import json
 
 url = "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-089"
-format = "JSON"
 
-# api 參數
+# api parameter
 params = {
     "Authorization": "CWA-D33FC8AF-31F1-4C17-8D51-0F09FD47A428",
-    "limit": 1, 
+    # "limit": 1,
     "format": "JSON",
     "LocationName": "新北市",
-    "ElementName": "溫度", 
+    "ElementName": "溫度,體感溫度",
     "sort": "time"
 }
 
+# call api
 reslut = requests.get(url, params=params).json()
-a = str(reslut["records"]["Locations"][0]["Location"][0]["LocationName"])
-print(a)
 
-# 可用的 LocationName 列表
-# location_list = ("宜蘭縣", "花蓮縣", "臺東縣", "澎湖縣", "金門縣", "連江縣", "臺北市", "新北市", "桃園市", "臺中市", "臺南市", "高雄市", "基隆市", "新竹縣", "新竹市", "苗栗縣", "彰化縣", "南投縣", "雲林縣", "嘉義縣", "嘉義市", "屏東縣")
-# location_list = ("新北市")
+try:
+    with open("result.json", "w", encoding="utf-8") as f:
+        json.dump(reslut, f, ensure_ascii=False, indent=4)
+except:
+    pass
 
-# user_input_correct = True
+# element, fields mapping
+key_value_mapping = {
+    "溫度": "Temperature", 
+    "體感溫度": "ApparentTemperature"
+}
 
-# while user_input_correct:
-#     user_input = input("請輸入查詢縣市：")
+# city name
+LocationName = str(reslut["records"]["Locations"][0]["Location"][0]["LocationName"])
+print(LocationName)
 
-#     if user_input in location_list:
-#         user_input_correct = False
-#         params["LocationName"] = user_input
-#         result = (requests.get(url, params=params).json()
-#         print(result)
-#     else:
-#         print("請輸入正確的縣市名稱")
+location = reslut["records"]["Locations"][0]["Location"][0] # 新北市
+elements = location["WeatherElement"]
+
+# create element list for column name
+elementList = []
+for i in range(len(elements)):
+    elementName = elements[i]["ElementName"]
+    elementList.append(elementName)
+print(elementList)
+
+
+# time quntity
+timeNumber = len(elements[0]["Time"])
+
+# create time list for row name
+timeList = []
+for i in range(timeNumber):
+    eachTime = elements[0]["Time"][i]["DataTime"]
+    timeList.append(eachTime)
+print(timeList)
+
+
+# create Temperature, ApparentTemperature list
+tempList = []
+appTempList = []
+
+# append value to tempList, appTempList
+for i in range(timeNumber):
+    tempValue = elements[0]["Time"][i]["ElementValue"][0]["Temperature"]
+    tempList.append(tempValue)
+
+    appTempValue = elements[1]["Time"][i]["ElementValue"][0]["ApparentTemperature"]
+    appTempList.append(appTempValue)
+
+print(tempList)
+print(appTempList)
