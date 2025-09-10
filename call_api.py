@@ -1,12 +1,17 @@
 import requests
 import pandas as pd
 import json
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+API_KEY = os.environ["CWA_API_KEY"]
 
 url = "https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-D0047-089"
 
 # api parameter
 params = {
-    "Authorization": "CWA-D33FC8AF-31F1-4C17-8D51-0F09FD47A428",
+    "Authorization": API_KEY,
     # "limit": 1,
     "format": "JSON",
     "LocationName": "新北市",
@@ -23,11 +28,6 @@ try:
 except:
     pass
 
-# element, fields mapping
-key_value_mapping = {
-    "溫度": "Temperature", 
-    "體感溫度": "ApparentTemperature"
-}
 
 # city name
 LocationName = str(reslut["records"]["Locations"][0]["Location"][0]["LocationName"])
