@@ -118,54 +118,6 @@
                                 "ElementName": "溫度",
                                 "Time": [
                                     {
-                                        "DataTime": "2025-09-10T12:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "34"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-10T13:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "34"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-10T14:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "34"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-10T15:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "33"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-10T16:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "33"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-10T17:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "32"
-                                            }
-                                        ]
-                                    },
-                                    {
                                         "DataTime": "2025-09-10T18:00:00+08:00",
                                         "ElementValue": [
                                             {
@@ -289,7 +241,7 @@
                                         "DataTime": "2025-09-11T09:00:00+08:00",
                                         "ElementValue": [
                                             {
-                                                "Temperature": "30"
+                                                "Temperature": "31"
                                             }
                                         ]
                                     },
@@ -313,7 +265,7 @@
                                         "DataTime": "2025-09-11T12:00:00+08:00",
                                         "ElementValue": [
                                             {
-                                                "Temperature": "33"
+                                                "Temperature": "34"
                                             }
                                         ]
                                     },
@@ -329,7 +281,7 @@
                                         "DataTime": "2025-09-11T14:00:00+08:00",
                                         "ElementValue": [
                                             {
-                                                "Temperature": "33"
+                                                "Temperature": "34"
                                             }
                                         ]
                                     },
@@ -345,7 +297,7 @@
                                         "DataTime": "2025-09-11T16:00:00+08:00",
                                         "ElementValue": [
                                             {
-                                                "Temperature": "32"
+                                                "Temperature": "33"
                                             }
                                         ]
                                     },
@@ -353,7 +305,7 @@
                                         "DataTime": "2025-09-11T17:00:00+08:00",
                                         "ElementValue": [
                                             {
-                                                "Temperature": "31"
+                                                "Temperature": "32"
                                             }
                                         ]
                                     },
@@ -361,7 +313,7 @@
                                         "DataTime": "2025-09-11T18:00:00+08:00",
                                         "ElementValue": [
                                             {
-                                                "Temperature": "30"
+                                                "Temperature": "31"
                                             }
                                         ]
                                     },
@@ -414,10 +366,42 @@
                                         ]
                                     },
                                     {
+                                        "DataTime": "2025-09-12T01:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "28"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-12T02:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "28"
+                                            }
+                                        ]
+                                    },
+                                    {
                                         "DataTime": "2025-09-12T03:00:00+08:00",
                                         "ElementValue": [
                                             {
                                                 "Temperature": "28"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-12T04:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "28"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-12T05:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "27"
                                             }
                                         ]
                                     },
@@ -481,7 +465,7 @@
                                         "DataTime": "2025-09-13T03:00:00+08:00",
                                         "ElementValue": [
                                             {
-                                                "Temperature": "28"
+                                                "Temperature": "27"
                                             }
                                         ]
                                     },
@@ -561,7 +545,23 @@
                                         "DataTime": "2025-09-14T09:00:00+08:00",
                                         "ElementValue": [
                                             {
-                                                "Temperature": "30"
+                                                "Temperature": "31"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T12:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "34"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T15:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "33"
                                             }
                                         ]
                                     }
@@ -571,58 +571,10 @@
                                 "ElementName": "體感溫度",
                                 "Time": [
                                     {
-                                        "DataTime": "2025-09-10T12:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "39"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-10T13:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "39"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-10T14:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "39"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-10T15:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "39"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-10T16:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "39"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-10T17:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "38"
-                                            }
-                                        ]
-                                    },
-                                    {
                                         "DataTime": "2025-09-10T18:00:00+08:00",
                                         "ElementValue": [
                                             {
-                                                "ApparentTemperature": "36"
+                                                "ApparentTemperature": "35"
                                             }
                                         ]
                                     },
@@ -630,7 +582,7 @@
                                         "DataTime": "2025-09-10T19:00:00+08:00",
                                         "ElementValue": [
                                             {
-                                                "ApparentTemperature": "36"
+                                                "ApparentTemperature": "35"
                                             }
                                         ]
                                     },
@@ -638,7 +590,7 @@
                                         "DataTime": "2025-09-10T20:00:00+08:00",
                                         "ElementValue": [
                                             {
-                                                "ApparentTemperature": "35"
+                                                "ApparentTemperature": "34"
                                             }
                                         ]
                                     },
@@ -662,7 +614,7 @@
                                         "DataTime": "2025-09-10T23:00:00+08:00",
                                         "ElementValue": [
                                             {
-                                                "ApparentTemperature": "34"
+                                                "ApparentTemperature": "33"
                                             }
                                         ]
                                     },
@@ -670,7 +622,7 @@
                                         "DataTime": "2025-09-11T00:00:00+08:00",
                                         "ElementValue": [
                                             {
-                                                "ApparentTemperature": "34"
+                                                "ApparentTemperature": "33"
                                             }
                                         ]
                                     },
@@ -702,7 +654,7 @@
                                         "DataTime": "2025-09-11T04:00:00+08:00",
                                         "ElementValue": [
                                             {
-                                                "ApparentTemperature": "33"
+                                                "ApparentTemperature": "32"
                                             }
                                         ]
                                     },
@@ -726,7 +678,7 @@
                                         "DataTime": "2025-09-11T07:00:00+08:00",
                                         "ElementValue": [
                                             {
-                                                "ApparentTemperature": "33"
+                                                "ApparentTemperature": "32"
                                             }
                                         ]
                                     },
@@ -798,7 +750,7 @@
                                         "DataTime": "2025-09-11T16:00:00+08:00",
                                         "ElementValue": [
                                             {
-                                                "ApparentTemperature": "37"
+                                                "ApparentTemperature": "38"
                                             }
                                         ]
                                     },
@@ -806,7 +758,7 @@
                                         "DataTime": "2025-09-11T17:00:00+08:00",
                                         "ElementValue": [
                                             {
-                                                "ApparentTemperature": "36"
+                                                "ApparentTemperature": "37"
                                             }
                                         ]
                                     },
@@ -814,7 +766,7 @@
                                         "DataTime": "2025-09-11T18:00:00+08:00",
                                         "ElementValue": [
                                             {
-                                                "ApparentTemperature": "35"
+                                                "ApparentTemperature": "36"
                                             }
                                         ]
                                     },
@@ -867,7 +819,39 @@
                                         ]
                                     },
                                     {
+                                        "DataTime": "2025-09-12T01:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "34"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-12T02:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "33"
+                                            }
+                                        ]
+                                    },
+                                    {
                                         "DataTime": "2025-09-12T03:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "33"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-12T04:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "33"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-12T05:00:00+08:00",
                                         "ElementValue": [
                                             {
                                                 "ApparentTemperature": "33"
@@ -918,7 +902,7 @@
                                         "DataTime": "2025-09-12T21:00:00+08:00",
                                         "ElementValue": [
                                             {
-                                                "ApparentTemperature": "34"
+                                                "ApparentTemperature": "33"
                                             }
                                         ]
                                     },
@@ -926,7 +910,7 @@
                                         "DataTime": "2025-09-13T00:00:00+08:00",
                                         "ElementValue": [
                                             {
-                                                "ApparentTemperature": "34"
+                                                "ApparentTemperature": "33"
                                             }
                                         ]
                                     },
@@ -942,7 +926,7 @@
                                         "DataTime": "2025-09-13T06:00:00+08:00",
                                         "ElementValue": [
                                             {
-                                                "ApparentTemperature": "32"
+                                                "ApparentTemperature": "31"
                                             }
                                         ]
                                     },
@@ -966,7 +950,7 @@
                                         "DataTime": "2025-09-13T15:00:00+08:00",
                                         "ElementValue": [
                                             {
-                                                "ApparentTemperature": "37"
+                                                "ApparentTemperature": "38"
                                             }
                                         ]
                                     },
@@ -990,7 +974,7 @@
                                         "DataTime": "2025-09-14T00:00:00+08:00",
                                         "ElementValue": [
                                             {
-                                                "ApparentTemperature": "33"
+                                                "ApparentTemperature": "34"
                                             }
                                         ]
                                     },
@@ -998,7 +982,7 @@
                                         "DataTime": "2025-09-14T03:00:00+08:00",
                                         "ElementValue": [
                                             {
-                                                "ApparentTemperature": "32"
+                                                "ApparentTemperature": "33"
                                             }
                                         ]
                                     },
@@ -1015,6 +999,22 @@
                                         "ElementValue": [
                                             {
                                                 "ApparentTemperature": "35"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T12:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "39"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T15:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "38"
                                             }
                                         ]
                                     }

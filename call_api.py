@@ -44,48 +44,10 @@ for ele in weatherElement:
 row = []
 for t in range(len(tempTimeSeries)):
     row.append({
-        "時間": tempTimeSeries[t]["DataTime"],
-        "溫度": tempTimeSeries[t]["ElementValue"][0]["Temperature"],
-        "體感溫度": appTempTimeSeries[t]["ElementValue"][0]["ApparentTemperature"]
+        "Time": tempTimeSeries[t]["DataTime"],
+        "Temperature": tempTimeSeries[t]["ElementValue"][0]["Temperature"],
+        "ApparentTemperature": appTempTimeSeries[t]["ElementValue"][0]["ApparentTemperature"]
     })
 
 dfData = pd.DataFrame(row)
 print(dfData)
-
-
-# location = reslut["records"]["Locations"][0]["Location"][0] # 新北市
-# elements = location["WeatherElement"]
-
-# # create element list for column name
-# elementList = []
-# for i in range(len(elements)):
-#     elementName = elements[i]["ElementName"]
-#     elementList.append(elementName)
-# print(elementList)
-
-
-# # time quntity
-# timeNumber = len(elements[0]["Time"])
-
-# # create time list for row name
-# timeList = []
-# for i in range(timeNumber):
-#     eachTime = elements[0]["Time"][i]["DataTime"]
-#     timeList.append(eachTime)
-# print(timeList)
-
-
-# # create Temperature, ApparentTemperature list
-# tempList = []
-# appTempList = []
-
-# # append value to tempList, appTempList
-# for i in range(timeNumber):
-#     tempValue = elements[0]["Time"][i]["ElementValue"][0]["Temperature"]
-#     tempList.append(tempValue)
-
-#     appTempValue = elements[1]["Time"][i]["ElementValue"][0]["ApparentTemperature"]
-#     appTempList.append(appTempValue)
-
-# print(tempList)
-# print(appTempList)
