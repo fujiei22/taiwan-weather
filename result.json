@@ -118,343 +118,23 @@
                                 "ElementName": "溫度",
                                 "Time": [
                                     {
-                                        "DataTime": "2025-09-10T18:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "31"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-10T19:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "30"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-10T20:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "29"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-10T21:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "29"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-10T22:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "29"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-10T23:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "29"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T00:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "29"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T01:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "28"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T02:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "28"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T03:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "28"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T04:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "28"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T05:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "27"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T06:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "27"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T07:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "28"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T08:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "29"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T09:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "31"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T10:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "32"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T11:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "33"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T12:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "34"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T13:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "34"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T14:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "34"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T15:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "33"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T16:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "33"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T17:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "32"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T18:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "31"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T19:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "30"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T20:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "29"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T21:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "29"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T22:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "29"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T23:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "29"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-12T00:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "29"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-12T01:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "28"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-12T02:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "28"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-12T03:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "28"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-12T04:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "28"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-12T05:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "27"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-12T06:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "27"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-12T09:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "30"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-12T12:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "33"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-12T15:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "33"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-12T18:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "30"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-12T21:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "Temperature": "29"
-                                            }
-                                        ]
-                                    },
-                                    {
                                         "DataTime": "2025-09-13T00:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "29"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T01:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "28"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T02:00:00+08:00",
                                         "ElementValue": [
                                             {
                                                 "Temperature": "28"
@@ -463,6 +143,22 @@
                                     },
                                     {
                                         "DataTime": "2025-09-13T03:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "28"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T04:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "28"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T05:00:00+08:00",
                                         "ElementValue": [
                                             {
                                                 "Temperature": "27"
@@ -478,10 +174,42 @@
                                         ]
                                     },
                                     {
+                                        "DataTime": "2025-09-13T07:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "28"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T08:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "29"
+                                            }
+                                        ]
+                                    },
+                                    {
                                         "DataTime": "2025-09-13T09:00:00+08:00",
                                         "ElementValue": [
                                             {
-                                                "Temperature": "30"
+                                                "Temperature": "31"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T10:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "32"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T11:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "33"
                                             }
                                         ]
                                     },
@@ -489,7 +217,23 @@
                                         "DataTime": "2025-09-13T12:00:00+08:00",
                                         "ElementValue": [
                                             {
-                                                "Temperature": "33"
+                                                "Temperature": "34"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T13:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "34"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T14:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "34"
                                             }
                                         ]
                                     },
@@ -497,7 +241,23 @@
                                         "DataTime": "2025-09-13T15:00:00+08:00",
                                         "ElementValue": [
                                             {
+                                                "Temperature": "34"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T16:00:00+08:00",
+                                        "ElementValue": [
+                                            {
                                                 "Temperature": "33"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T17:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "32"
                                             }
                                         ]
                                     },
@@ -505,7 +265,23 @@
                                         "DataTime": "2025-09-13T18:00:00+08:00",
                                         "ElementValue": [
                                             {
+                                                "Temperature": "31"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T19:00:00+08:00",
+                                        "ElementValue": [
+                                            {
                                                 "Temperature": "30"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T20:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "29"
                                             }
                                         ]
                                     },
@@ -518,7 +294,39 @@
                                         ]
                                     },
                                     {
+                                        "DataTime": "2025-09-13T22:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "29"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T23:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "29"
+                                            }
+                                        ]
+                                    },
+                                    {
                                         "DataTime": "2025-09-14T00:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "29"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T01:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "28"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T02:00:00+08:00",
                                         "ElementValue": [
                                             {
                                                 "Temperature": "28"
@@ -534,6 +342,22 @@
                                         ]
                                     },
                                     {
+                                        "DataTime": "2025-09-14T04:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "28"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T05:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "27"
+                                            }
+                                        ]
+                                    },
+                                    {
                                         "DataTime": "2025-09-14T06:00:00+08:00",
                                         "ElementValue": [
                                             {
@@ -542,10 +366,42 @@
                                         ]
                                     },
                                     {
+                                        "DataTime": "2025-09-14T07:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "28"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T08:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "29"
+                                            }
+                                        ]
+                                    },
+                                    {
                                         "DataTime": "2025-09-14T09:00:00+08:00",
                                         "ElementValue": [
                                             {
                                                 "Temperature": "31"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T10:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "32"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T11:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "33"
                                             }
                                         ]
                                     },
@@ -562,6 +418,603 @@
                                         "ElementValue": [
                                             {
                                                 "Temperature": "33"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T18:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "30"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T21:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "29"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-15T00:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "28"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-15T03:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "27"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-15T06:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "27"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-15T09:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "31"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-15T12:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "35"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-15T15:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "34"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-15T18:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "31"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-15T21:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "30"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-16T00:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "29"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-16T03:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "28"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-16T06:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "28"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-16T09:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "32"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-16T12:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "36"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-16T15:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "35"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-16T18:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "32"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-16T21:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "Temperature": "30"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "ElementName": "相對濕度",
+                                "Time": [
+                                    {
+                                        "DataTime": "2025-09-13T00:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "78"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T01:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "80"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T02:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "81"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T03:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "81"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T04:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "81"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T05:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "80"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T06:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "77"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T07:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "72"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T08:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "67"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T09:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "61"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T10:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "56"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T11:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "53"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T12:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "53"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T13:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "54"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T14:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "57"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T15:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "58"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T16:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "60"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T17:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "62"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T18:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "63"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T19:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "65"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T20:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "66"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T21:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "68"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T22:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "69"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T23:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "70"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T00:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "71"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T01:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "72"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T02:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "73"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T03:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "76"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T04:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "79"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T05:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "80"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T06:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "76"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T07:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "71"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T08:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "66"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T09:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "62"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T10:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "60"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T11:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "58"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T12:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "58"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T15:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "64"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T18:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "74"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T21:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "78"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-15T00:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "80"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-15T03:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "89"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-15T06:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "90"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-15T09:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "67"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-15T12:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "55"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-15T15:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "59"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-15T18:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "70"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-15T21:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "75"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-16T00:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "77"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-16T03:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "76"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-16T06:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "72"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-16T09:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "67"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-16T12:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "61"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-16T15:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "61"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-16T18:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "69"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-16T21:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "RelativeHumidity": "76"
                                             }
                                         ]
                                     }
@@ -571,343 +1024,23 @@
                                 "ElementName": "體感溫度",
                                 "Time": [
                                     {
-                                        "DataTime": "2025-09-10T18:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "35"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-10T19:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "35"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-10T20:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "34"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-10T21:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "34"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-10T22:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "34"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-10T23:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "33"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T00:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "33"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T01:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "34"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T02:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "33"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T03:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "33"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T04:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "32"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T05:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "32"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T06:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "32"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T07:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "32"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T08:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "34"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T09:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "36"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T10:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "36"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T11:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "37"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T12:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "38"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T13:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "39"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T14:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "39"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T15:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "38"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T16:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "38"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T17:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "37"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T18:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "36"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T19:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "35"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T20:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "35"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T21:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "34"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T22:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "34"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-11T23:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "34"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-12T00:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "34"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-12T01:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "34"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-12T02:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "33"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-12T03:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "33"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-12T04:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "33"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-12T05:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "33"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-12T06:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "32"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-12T09:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "35"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-12T12:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "38"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-12T15:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "38"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-12T18:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "35"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-12T21:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "33"
-                                            }
-                                        ]
-                                    },
-                                    {
                                         "DataTime": "2025-09-13T00:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "33"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T01:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "33"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T02:00:00+08:00",
                                         "ElementValue": [
                                             {
                                                 "ApparentTemperature": "33"
@@ -923,10 +1056,42 @@
                                         ]
                                     },
                                     {
+                                        "DataTime": "2025-09-13T04:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "32"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T05:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "32"
+                                            }
+                                        ]
+                                    },
+                                    {
                                         "DataTime": "2025-09-13T06:00:00+08:00",
                                         "ElementValue": [
                                             {
                                                 "ApparentTemperature": "31"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T07:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "31"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T08:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "33"
                                             }
                                         ]
                                     },
@@ -939,10 +1104,42 @@
                                         ]
                                     },
                                     {
+                                        "DataTime": "2025-09-13T10:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "36"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T11:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "37"
+                                            }
+                                        ]
+                                    },
+                                    {
                                         "DataTime": "2025-09-13T12:00:00+08:00",
                                         "ElementValue": [
                                             {
                                                 "ApparentTemperature": "38"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T13:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "39"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T14:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "39"
                                             }
                                         ]
                                     },
@@ -955,6 +1152,22 @@
                                         ]
                                     },
                                     {
+                                        "DataTime": "2025-09-13T16:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "37"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T17:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "36"
+                                            }
+                                        ]
+                                    },
+                                    {
                                         "DataTime": "2025-09-13T18:00:00+08:00",
                                         "ElementValue": [
                                             {
@@ -963,7 +1176,7 @@
                                         ]
                                     },
                                     {
-                                        "DataTime": "2025-09-13T21:00:00+08:00",
+                                        "DataTime": "2025-09-13T19:00:00+08:00",
                                         "ElementValue": [
                                             {
                                                 "ApparentTemperature": "34"
@@ -971,15 +1184,7 @@
                                         ]
                                     },
                                     {
-                                        "DataTime": "2025-09-14T00:00:00+08:00",
-                                        "ElementValue": [
-                                            {
-                                                "ApparentTemperature": "34"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "DataTime": "2025-09-14T03:00:00+08:00",
+                                        "DataTime": "2025-09-13T20:00:00+08:00",
                                         "ElementValue": [
                                             {
                                                 "ApparentTemperature": "33"
@@ -987,10 +1192,98 @@
                                         ]
                                     },
                                     {
+                                        "DataTime": "2025-09-13T21:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "33"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T22:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "33"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-13T23:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "33"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T00:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "33"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T01:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "33"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T02:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "32"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T03:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "32"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T04:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "32"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T05:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "32"
+                                            }
+                                        ]
+                                    },
+                                    {
                                         "DataTime": "2025-09-14T06:00:00+08:00",
                                         "ElementValue": [
                                             {
-                                                "ApparentTemperature": "31"
+                                                "ApparentTemperature": "32"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T07:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "32"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T08:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "33"
                                             }
                                         ]
                                     },
@@ -1003,10 +1296,26 @@
                                         ]
                                     },
                                     {
+                                        "DataTime": "2025-09-14T10:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "36"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T11:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "37"
+                                            }
+                                        ]
+                                    },
+                                    {
                                         "DataTime": "2025-09-14T12:00:00+08:00",
                                         "ElementValue": [
                                             {
-                                                "ApparentTemperature": "39"
+                                                "ApparentTemperature": "38"
                                             }
                                         ]
                                     },
@@ -1015,6 +1324,443 @@
                                         "ElementValue": [
                                             {
                                                 "ApparentTemperature": "38"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T18:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "36"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-14T21:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "33"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-15T00:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "33"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-15T03:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "32"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-15T06:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "31"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-15T09:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "35"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-15T12:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "40"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-15T15:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "39"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-15T18:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "36"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-15T21:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "34"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-16T00:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "34"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-16T03:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "33"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-16T06:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "32"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-16T09:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "37"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-16T12:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "41"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-16T15:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "39"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-16T18:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "36"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "DataTime": "2025-09-16T21:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ApparentTemperature": "34"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "ElementName": "3小時降雨機率",
+                                "Time": [
+                                    {
+                                        "StartTime": "2025-09-13T00:00:00+08:00",
+                                        "EndTime": "2025-09-13T03:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ProbabilityOfPrecipitation": "20"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "StartTime": "2025-09-13T03:00:00+08:00",
+                                        "EndTime": "2025-09-13T06:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ProbabilityOfPrecipitation": "20"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "StartTime": "2025-09-13T06:00:00+08:00",
+                                        "EndTime": "2025-09-13T09:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ProbabilityOfPrecipitation": "20"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "StartTime": "2025-09-13T09:00:00+08:00",
+                                        "EndTime": "2025-09-13T12:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ProbabilityOfPrecipitation": "20"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "StartTime": "2025-09-13T12:00:00+08:00",
+                                        "EndTime": "2025-09-13T15:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ProbabilityOfPrecipitation": "20"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "StartTime": "2025-09-13T15:00:00+08:00",
+                                        "EndTime": "2025-09-13T18:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ProbabilityOfPrecipitation": "30"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "StartTime": "2025-09-13T18:00:00+08:00",
+                                        "EndTime": "2025-09-13T21:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ProbabilityOfPrecipitation": "20"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "StartTime": "2025-09-13T21:00:00+08:00",
+                                        "EndTime": "2025-09-14T00:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ProbabilityOfPrecipitation": "10"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "StartTime": "2025-09-14T00:00:00+08:00",
+                                        "EndTime": "2025-09-14T03:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ProbabilityOfPrecipitation": "10"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "StartTime": "2025-09-14T03:00:00+08:00",
+                                        "EndTime": "2025-09-14T06:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ProbabilityOfPrecipitation": "10"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "StartTime": "2025-09-14T06:00:00+08:00",
+                                        "EndTime": "2025-09-14T09:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ProbabilityOfPrecipitation": "10"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "StartTime": "2025-09-14T09:00:00+08:00",
+                                        "EndTime": "2025-09-14T12:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ProbabilityOfPrecipitation": "10"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "StartTime": "2025-09-14T12:00:00+08:00",
+                                        "EndTime": "2025-09-14T15:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ProbabilityOfPrecipitation": "30"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "StartTime": "2025-09-14T15:00:00+08:00",
+                                        "EndTime": "2025-09-14T18:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ProbabilityOfPrecipitation": "30"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "StartTime": "2025-09-14T18:00:00+08:00",
+                                        "EndTime": "2025-09-14T21:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ProbabilityOfPrecipitation": "20"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "StartTime": "2025-09-14T21:00:00+08:00",
+                                        "EndTime": "2025-09-15T00:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ProbabilityOfPrecipitation": "10"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "StartTime": "2025-09-15T00:00:00+08:00",
+                                        "EndTime": "2025-09-15T03:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ProbabilityOfPrecipitation": "0"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "StartTime": "2025-09-15T03:00:00+08:00",
+                                        "EndTime": "2025-09-15T06:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ProbabilityOfPrecipitation": "0"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "StartTime": "2025-09-15T06:00:00+08:00",
+                                        "EndTime": "2025-09-15T09:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ProbabilityOfPrecipitation": "0"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "StartTime": "2025-09-15T09:00:00+08:00",
+                                        "EndTime": "2025-09-15T12:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ProbabilityOfPrecipitation": "0"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "StartTime": "2025-09-15T12:00:00+08:00",
+                                        "EndTime": "2025-09-15T15:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ProbabilityOfPrecipitation": "20"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "StartTime": "2025-09-15T15:00:00+08:00",
+                                        "EndTime": "2025-09-15T18:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ProbabilityOfPrecipitation": "20"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "StartTime": "2025-09-15T18:00:00+08:00",
+                                        "EndTime": "2025-09-15T21:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ProbabilityOfPrecipitation": "10"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "StartTime": "2025-09-15T21:00:00+08:00",
+                                        "EndTime": "2025-09-16T00:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ProbabilityOfPrecipitation": "0"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "StartTime": "2025-09-16T00:00:00+08:00",
+                                        "EndTime": "2025-09-16T03:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ProbabilityOfPrecipitation": "0"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "StartTime": "2025-09-16T03:00:00+08:00",
+                                        "EndTime": "2025-09-16T06:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ProbabilityOfPrecipitation": "0"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "StartTime": "2025-09-16T06:00:00+08:00",
+                                        "EndTime": "2025-09-16T09:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ProbabilityOfPrecipitation": "0"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "StartTime": "2025-09-16T09:00:00+08:00",
+                                        "EndTime": "2025-09-16T12:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ProbabilityOfPrecipitation": "0"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "StartTime": "2025-09-16T12:00:00+08:00",
+                                        "EndTime": "2025-09-16T15:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ProbabilityOfPrecipitation": "20"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "StartTime": "2025-09-16T15:00:00+08:00",
+                                        "EndTime": "2025-09-16T18:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ProbabilityOfPrecipitation": "20"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "StartTime": "2025-09-16T18:00:00+08:00",
+                                        "EndTime": "2025-09-16T21:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ProbabilityOfPrecipitation": "10"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "StartTime": "2025-09-16T21:00:00+08:00",
+                                        "EndTime": "2025-09-17T00:00:00+08:00",
+                                        "ElementValue": [
+                                            {
+                                                "ProbabilityOfPrecipitation": "0"
                                             }
                                         ]
                                     }

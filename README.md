@@ -1,5 +1,14 @@
-解決 SSLerror
+## Installation
 
-讓 pip 與 certifi 使用系統憑證庫
+```
+pip install python-dotenv requests pandas
+```
 
+
+## To solve SSLError
+
+Make `pip` and `certifi` use the system certificate store.
+
+```
 pip install pip-system-certs --upgrade
+```
