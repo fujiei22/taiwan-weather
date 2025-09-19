@@ -35,8 +35,8 @@ while correct_loc_name:
 reslut = requests.get(url, params=params).json()
 
 # write data into a .json file
-with open("result.json", "w", encoding="utf-8") as f:
-    json.dump(reslut, f, indent=4, ensure_ascii=False)
+# with open("result.json", "w", encoding="utf-8") as f:
+#     json.dump(reslut, f, indent=4, ensure_ascii=False)
 
 locations = reslut["records"]["Locations"][0]["Location"]
 weatherElement = locations[0]["WeatherElement"]
@@ -45,16 +45,6 @@ ATTimeSeries = weatherElement[2]["Time"] # 體感溫度時間佇列
 RHTimeSeries = weatherElement[1]["Time"] # 相對濕度時間佇列
 
 PoPTimeSeries = weatherElement[3]["Time"] # 3小時降雨機率時間佇列
-
-# all city name
-locationList = []
-for loc in locations:
-    locationList.append(loc["LocationName"])
-
-# all weahter element
-weatherElementList = []
-for ele in weatherElement:
-    weatherElementList.append(ele["ElementName"])
 
 # all time series
 row = []
